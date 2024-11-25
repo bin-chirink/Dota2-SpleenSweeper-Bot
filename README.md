@@ -2,7 +2,7 @@
 
 🖱️ **Spleen Sweeper Bot** is an AI-powered script designed for the Dota 2 mini-game, Spleen Sweeper, which is similar to Minesweeper. The bot efficiently completes all 5 difficulty levels, providing a smooth and effortless gaming experience.
 
-![Spleen Sweeper](https://i.imgur.com/7g5jaeI.gif)
+![](https://github.com/bin-chirink/Dota2-SpleenSweeper-Bot/blob/main/resource/preview.gif)
 ---
 
 ## Features
