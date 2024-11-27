@@ -39,7 +39,7 @@ If you encounter problems with downloading or installing the archive, follow the
 
 ## Q&A
 
-**Why is the source code not working?**
+**Why is the source code not working?**  
 To run the program, you will need Python 3.13 and all dependencies listed in the `requirements.txt` file. I recommend downloading the precompiled package from the [Releases](https://github.com/bin-chirink/Dota2-SpleenSweeper-Bot/releases/) section. It includes all necessary dependencies as well as the OCR program.
 
 **Will it get you VAC banned?**  
